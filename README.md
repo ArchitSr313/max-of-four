@@ -1,3 +1,2 @@
-# max-of-four
-c program to find max of four numbers using functions
+C Program to Find Max of Four Numbers using Functions.<br>
 a c program which gives max output to the user using four inputs
